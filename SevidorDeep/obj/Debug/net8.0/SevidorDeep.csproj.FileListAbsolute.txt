@@ -1,0 +1,14 @@
+C:\SevidorDeep\SevidorDeep\bin\Debug\net8.0\SevidorDeep.exe
+C:\SevidorDeep\SevidorDeep\bin\Debug\net8.0\SevidorDeep.deps.json
+C:\SevidorDeep\SevidorDeep\bin\Debug\net8.0\SevidorDeep.runtimeconfig.json
+C:\SevidorDeep\SevidorDeep\bin\Debug\net8.0\SevidorDeep.dll
+C:\SevidorDeep\SevidorDeep\bin\Debug\net8.0\SevidorDeep.pdb
+C:\SevidorDeep\SevidorDeep\obj\Debug\net8.0\SevidorDeep.GeneratedMSBuildEditorConfig.editorconfig
+C:\SevidorDeep\SevidorDeep\obj\Debug\net8.0\SevidorDeep.AssemblyInfoInputs.cache
+C:\SevidorDeep\SevidorDeep\obj\Debug\net8.0\SevidorDeep.AssemblyInfo.cs
+C:\SevidorDeep\SevidorDeep\obj\Debug\net8.0\SevidorDeep.csproj.CoreCompileInputs.cache
+C:\SevidorDeep\SevidorDeep\obj\Debug\net8.0\SevidorDeep.dll
+C:\SevidorDeep\SevidorDeep\obj\Debug\net8.0\refint\SevidorDeep.dll
+C:\SevidorDeep\SevidorDeep\obj\Debug\net8.0\SevidorDeep.pdb
+C:\SevidorDeep\SevidorDeep\obj\Debug\net8.0\SevidorDeep.genruntimeconfig.cache
+C:\SevidorDeep\SevidorDeep\obj\Debug\net8.0\ref\SevidorDeep.dll
